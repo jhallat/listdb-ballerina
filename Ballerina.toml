@@ -1,0 +1,5 @@
+[project]
+org-name= "jhall"
+version= "0.1.0"
+
+[dependencies]
